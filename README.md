@@ -31,16 +31,12 @@ Sou um programador fullstack e estudante de engenharia de software, com uma fort
   <code>Django <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"/></code>
   <code>PHP <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
   <code>Streamlit <img height="32" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit"/></code>
-  <code>API <img height="32" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-4c5f-4f50-bab0-4ac0a99e2984.png" alt="API"/></code>
+  <code>Django Rest Framework</code>
 - **Bancos de Dados:** 
   <code>PostgreSQL <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
   <code>MySQL <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
 - **Estudando:** 
   <code>Java <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
-
----
-
-## ⭐ GitHub Stats
 
 ![gabrielssrufino's Stats](https://github-readme-stats.vercel.app/api?username=gabrielssrufino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 ![gabrielssrufino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&theme=vue-dark&hide_border=true)
