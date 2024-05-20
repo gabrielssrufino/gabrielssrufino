@@ -40,6 +40,4 @@ Sou um programador fullstack e estudante de engenharia de software, com uma fort
 
 ---
 
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielssrufino&show_icons=true)
+![gabrielssrufino's Stats](https://github-readme-stats.vercel.app/api?username=gabrielssrufino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![gabrielssrufino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&theme=vue-dark&hide_border=true)
