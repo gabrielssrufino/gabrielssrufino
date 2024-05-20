@@ -1,6 +1,6 @@
 ## 👨‍💻 Olá, meu nome é Gabriel Rufino!
 
-Sou um programador fullstack e estudante de engenharia de software, com uma forte afinidade pelo desenvolvimento backend. Tenho experiência e domínio nas seguintes tecnologias:
+Sou um programador fullstack e estudante de engenharia de software, com uma forte afinidade pelo desenvolvimento backend.
 
 🔭 Atualmente, estou desenvolvendo um ecossistema RFID para a empresa TagWise como desenvolvedor Fullstack.
 
