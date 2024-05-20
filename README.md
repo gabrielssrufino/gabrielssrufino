@@ -39,4 +39,5 @@ Sou um programador fullstack e estudante de engenharia de software, com uma fort
   <code>Java <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
 
 ![gabrielssrufino's Stats](https://github-readme-stats.vercel.app/api?username=gabrielssrufino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
+
 ![gabrielssrufino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&theme=vue-dark&hide_border=true)
