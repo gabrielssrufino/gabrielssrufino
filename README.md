@@ -2,7 +2,7 @@
 
 Sou um programador fullstack e estudante de engenharia de software, com uma forte afinidade pelo desenvolvimento backend.
 
-🔭 Atualmente, estou desenvolvendo um ecossistema RFID para a empresa TagWise como desenvolvedor Fullstack.
+🔭 Atualmente, estou desenvolvendo um ecossistema RFID para a empresa WiseTag como desenvolvedor Fullstack.
 
 💬 Estou sempre aberto a novas oportunidades e colaborações. Se você tiver alguma pergunta ou quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem.
 
