@@ -2,7 +2,7 @@
 
 Sou um programador fullstack e estudante de engenharia de software, com uma forte afinidade pelo desenvolvimento backend.
 
-🔭 Atualmente, estou desenvolvendo um ecossistema RFID para a empresa WiseTag como desenvolvedor Fullstack.
+🔭 Atualmente trabalho para a empresa WiseTag, atuando como desolvolvedor principal nas melhores e mais completas soluções RFID do mercado!
 
 💬 Estou sempre aberto a novas oportunidades e colaborações. Se você tiver alguma pergunta ou quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem.
 
@@ -21,19 +21,22 @@ Sou um programador fullstack e estudante de engenharia de software, com uma fort
 
 ## 🚀 Minhas Skills
 - **Frontend:** 
-  <code>JavaScript <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
-  <code>jQuery <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" alt="jQuery"/></code>
-  <code>Angular <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="Angular"/></code>
-  <code>CSS <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
-  <code>Tailwind CSS <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS"/></code>
+  <code>JavaScript</code>
+  <code>jQuery </code>
+  <code>Angular</code>
+  <code>CSS</code>
+  <code>Tailwind CSS</code>
 - **Backend:** 
-  <code>Python <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-  <code>Django <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"/></code>
-  <code>PHP <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code>
-  <code>Streamlit <img height="32" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit"/></code>
+  <code>Python</code>
+  <code>Django</code>
+  <code>PHP</code>
+  <code>Streamlit</code>
   <code>Django Rest Framework</code>
 - **Bancos de Dados:** 
-  <code>PostgreSQL <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-  <code>MySQL <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <code>PostgreSQL</code>
+  <code>MySQL</code>
+  <code>Microsoft SQL</code>
 - **Estudando:** 
-  <code>Java <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
+  <code>Java</code>
+  <code>Kotlin</code>
+  <code>React Native</code>
