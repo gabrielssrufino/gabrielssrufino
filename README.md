@@ -8,12 +8,12 @@
 <h3 align="center">Software Engineering student at UNESA 🎓</h3>
 <br>
 
-🔭 Currently, I am the lead programmer at WiseTag, a company that develops complete RFID solutions.
+🔭 Currently, I am improving my hard and soft skills to better contribute to my future role.
 
 
-💬 Currently, I use PHP, Django Rest Framework, HTML, CSS, and jQuery in my work.
+💬 In my last job, I developed complete RFID applications, integrating hardware with web and mobile applications..
 
-🌱 Currently studying Kotlin and React Native.
+🌱 Currently studying Node.js and Vue.
 
 <h3 align="center">Skills & Technologies 🔧🧪</h3>
 
