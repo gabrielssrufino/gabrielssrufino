@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**gabrielssrufino/gabrielssrufino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full Stack Developer | Python, Django & React Enthusiast
 
-Here are some ideas to get you started:
+I'm a Brazilian full-time Full Stack Developer and Software Engineering student currently working at [Innera Health](https://www.innerahealth.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🧠 GitHub Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&" alt="gabrielssrufino" /></p>
+
+---
+
+## 🚀 What I Do
+
+I'm a Full Stack Developer focused on building complete web applications — from robust RESTful APIs to clean, modern user interfaces.  
+I work across the entire development stack — from backend logic to frontend interfaces — delivering efficient, scalable, and user-friendly solutions.
+
+---
+
+## 📜 My Skills
+
+### Web Technologies
+- JavaScript (ES6+)
+- React
+- Next.js
+- HTML, CSS
+
+### Back-end & Frameworks
+- Python
+- Django, Django REST Framework
+- PHP
+
+### Databases & AI
+- SQL (PostgreSQL, MySQL, SQL Server)
+- Artificial Intelligence / Machine Learning
+
+### DevOps & Cloud
+- Docker
+- NGINX
+- Linux
+- Bash
+- Cloud Platforms: AWS, OCI, GCP
+
+### Tools & Utilities
+- Git & GitHub
+- Postman, Insomnia
+- CI/CD (GitHub Actions)
+- VS Code, PyCharm
+
+---
+
+## 📚 Currently Learning
+- TypeScript
+- Clean Architecture
+- Advanced AI Models (LLMs, Transformers)
+
+---
+
+## 🌎 Languages
+- Portuguese (native)
+- English (B2 – Intermediate)
+
+---
