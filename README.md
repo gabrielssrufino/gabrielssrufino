@@ -3,13 +3,6 @@
 
 I'm a Brazilian full-time Full Stack Developer and Software Engineering student currently working at [Innera Health](https://www.innerahealth.com/).
 
----
-
-#### 🧠 GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&" alt="gabrielssrufino" /></p>
-
----
-
 ## 🚀 What I Do
 
 I'm a Full Stack Developer focused on building complete web applications — from robust RESTful APIs to clean, modern user interfaces.  
@@ -59,5 +52,12 @@ I work across the entire development stack — from backend logic to frontend in
 ## 🌎 Languages
 - Portuguese (native)
 - English (B2 – Intermediate/Upper Intermediate)
+
+---
+
+---
+
+#### 🧠 GitHub Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielssrufino&" alt="gabrielssrufino" /></p>
 
 ---
