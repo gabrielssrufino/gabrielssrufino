@@ -1,7 +1,8 @@
 
 # Full Stack Developer | Python, Django & React Enthusiast
 
-I'm a Brazilian full-time Full Stack Developer and Software Engineering student currently working at [Innera Health](https://www.innerahealth.com/).
+I'm a Brazilian full-time Full Stack Developer and Software Engineering student currently working at <a href="https://www.innerahealth.com/" target="_blank" rel="noopener noreferrer">Innera Health</a>.
+
 
 ---
 
