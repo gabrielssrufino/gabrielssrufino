@@ -10,9 +10,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com 2 anos de experiência criando aplicações web, APIs RESTful e automações com **Python** (Django, FastAPI) e **React/Next.js**. Já trabalhei com logística internacional, fintech e healthtech, do levantamento de requisitos ao deploy.
+Sou desenvolvedor Full Stack com mais de 2 anos e meio de experiência criando aplicações web, APIs RESTful e automações com **Python** (Django, FastAPI) e **React/Next.js**. Já trabalhei com logística internacional, fintech, healthtech e soluções RFID, do levantamento de requisitos ao deploy.
 
-- Atualmente sou **Desenvolvedor Full Stack** na **Cheap Courier** (logística e transporte internacional)
+- Atualmente sou **Analista de Operações e Desenvolvedor de Software** na **Cheap Courier** (logística e transporte internacional)
 - Curso **Engenharia de Software** na Universidade Estácio de Sá
 - Tenho interesse em **IA aplicada**: RAG, agentes e análise de dados
 - Moro em Nova Friburgo, RJ, Brasil
@@ -74,5 +74,3 @@ Sou desenvolvedor Full Stack com 2 anos de experiência criando aplicações web
 ## Idiomas
 
 Português (nativo) · Inglês (B2)
-
----
